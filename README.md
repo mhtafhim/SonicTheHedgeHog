@@ -10,7 +10,6 @@ Check out our gameplay demonstration video below:
 
 [![Sonic 2D Game Demo](https://img.youtube.com/vi/DKLH6pvGK_Q/0.jpg)](https://www.youtube.com/watch?v=DKLH6pvGK_Q)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DKLH6pvGK_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Game Features
